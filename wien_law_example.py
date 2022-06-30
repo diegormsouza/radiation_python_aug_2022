@@ -1,6 +1,6 @@
 #-----------------------------------------------------------------------------------------------------------
 # INPE / CGCT / DISSM - Training: Wien's Displacement Law
-# Author: Diego Souza & Simone Sirvery
+# Author: Diego Souza & Simone Sievert
 #-----------------------------------------------------------------------------------------------------------
 # Required modules
 import pandas                       # Python Data Analysis Library
